@@ -8,7 +8,7 @@ I am proficient in a wide range of services, including blockchain development, d
 
 I am dedicated to delivering customized solutions that meet my clients' specific needs and I am committed to providing excellent customer service and support throughout the development process. 
 
-<p> 👆 My skills 👆 </p>
+<p> <b>👆 My skills 👆</b> </p>
 ✔ JavaScript, TypeScript, ES6+, jQuery, HTML, CSS/LESS/SASS/SCSS <br>
 ✔ React, Vue.js, Vuex, Next.js<br>
 ✔ Material UI, React Redux, Fluent UI, Bootstrap, Tailwind CSS<br>
@@ -17,8 +17,8 @@ I am dedicated to delivering customized solutions that meet my clients' specific
 ✔ Elixir, Erlang, Ruby, Python<br>
 ✔ Docker, AWS, cPanel, Azure, Digital Ocean<br>
 ✔ Agile, Jira, Trello, Teamwork, Git<br>
-
-<p> 👉 Blockchain 👉</p> 
+<p> </p>
+<p> <b>👉 Blockchain 👉</b></p> 
 ✔ Ethereum, Solana, Binance Smart Chain.<br>
 ✔ Defi, DEX, Gambling, Token building, Dapps, ICO, DAO, Presale.<br>
 ✔ ERC20, ERC721, ERC1155, BEP20.<br>
@@ -27,6 +27,7 @@ I am dedicated to delivering customized solutions that meet my clients' specific
 ✔ Connecting to opensea or rarible<br>
 ✔ Managing Liquidity, Liquidity Pool and Swap<br>
 
+<p> </p>
 <p>
 <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=flat-square&logo=bitcoin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
